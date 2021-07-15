@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ggowtham94, or G!
 - 👀 I’m interested in learning and understanding the world of data 
 - 🌱 I’m currently learning Python, R & SQL
-- 💞️ I’m always down to learn, so if there is anyway I can improve on mt way of thinking or coding, I'm all ears
+- 💞️ I’m always down to learn, so if there is anyway I can improve on my way of thinking or coding, I'm all ears
 - 📫 gowtham.g20@gmail.com
 
 <!---
